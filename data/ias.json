@@ -1,0 +1,146 @@
+{
+    "fields": [
+        {
+            "id": "a",
+            "label": "S.No.",
+            "type": "string"
+        },
+        {
+            "id": "b",
+            "label": "Cadre",
+            "type": "string"
+        },
+        {
+            "id": "c",
+            "label": "No. of Officers at Centre",
+            "type": "string"
+        }
+    ],
+    "data": [
+        [
+            "1",
+            "Uttar Pradesh",
+            "71"
+        ],
+        [
+            "2",
+            "A G M U T",
+            "44"
+        ],
+        [
+            "3",
+            "Bihar",
+            "42"
+        ],
+        [
+            "4",
+            "Assam Meghalaya",
+            "38"
+        ],
+        [
+            "5",
+            "Kerala",
+            "38"
+        ],
+        [
+            "6",
+            "Madhya Pradesh",
+            "29"
+        ],
+        [
+            "7",
+            "Tamil Nadu",
+            "24"
+        ],
+        [
+            "8",
+            "Himachal Pradesh",
+            "23"
+        ],
+        [
+            "9",
+            "Odisha",
+            "23"
+        ],
+        [
+            "10",
+            "Andhra Pradesh",
+            "21"
+        ],
+        [
+            "11",
+            "Maharashtra",
+            "21"
+        ],
+        [
+            "12",
+            "Karnataka",
+            "19"
+        ],
+        [
+            "13",
+            "Gujarat",
+            "18"
+        ],
+        [
+            "14",
+            "Rajasthan",
+            "18"
+        ],
+        [
+            "15",
+            "Punjab",
+            "17"
+        ],
+        [
+            "16",
+            "Haryana",
+            "16"
+        ],
+        [
+            "17",
+            "Manipur",
+            "14"
+        ],
+        [
+            "18",
+            "Telangana",
+            "13"
+        ],
+        [
+            "19",
+            "Tripura",
+            "13"
+        ],
+        [
+            "20",
+            "West Bengal",
+            "12"
+        ],
+        [
+            "21",
+            "Uttarakhand",
+            "10"
+        ],
+        [
+            "22",
+            "Jammu & Kashmir",
+            "9"
+        ],
+        [
+            "23",
+            "Jharkhand",
+            "6"
+        ],
+        [
+            "24",
+            "Nagaland",
+            "7"
+        ],
+        [
+            "25",
+            "Chhattisgarh",
+            "3"
+        ]
+    ]
+}
